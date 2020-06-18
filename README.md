@@ -1,2 +1,2 @@
 # DTC-SC
-The smart contract for data trading certification
+The smart contracts for data trading certification
